@@ -34,7 +34,7 @@ Visit the live application: [HOTKEYS - MAYA](https://hotkeys-maya.vercel.app)
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](screenshot-home.png)
+![Home Page](https://github.com/Mahideep16/Hotkeys-Maya/blob/6499ffd2c8b796767e0b9dfb7f4f648efe32fa3f/Hotkeys-Maya.png)
 
 ### Hotkeys View
 ![Hotkeys View](screenshot-hotkeys.png)
